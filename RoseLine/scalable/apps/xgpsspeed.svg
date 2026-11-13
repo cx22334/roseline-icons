@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/>
-
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="14" y="14" width="36" height="36" viewBox="0 0 192 192" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><g transform="matrix(0.1875 0 0 0.1875 14 14)">
 <g id="#0b91ffff">
 <path fill="#0b91ff" opacity="1.00" d=" M 45.83 24.84 C 63.66 12.36 86.52 6.87 107.98 10.47 C 103.92 13.26 100.22 16.61 97.31 20.60 C 98.23 21.06 99.17 21.49 100.12 21.89 C 74.20 19.99 47.79 32.88 33.61 54.70 C 22.73 70.66 18.70 90.98 22.32 109.92 C 22.74 112.17 23.47 114.36 23.70 116.64 C 19.61 119.15 17.24 123.41 14.37 127.09 C 7.72 110.47 6.90 91.69 11.28 74.38 C 16.32 54.41 28.93 36.56 45.83 24.84 Z" />
 </g>
@@ -39,5 +37,4 @@
 <g id="#1fbbffff">
 <path fill="#1fbbff" opacity="1.00" d=" M 52.97 171.03 C 50.06 165.87 55.63 158.97 61.17 161.90 C 73.20 168.11 86.81 170.70 100.29 170.23 C 97.18 170.89 93.99 171.15 90.92 171.99 C 87.06 173.83 85.21 178.01 83.73 181.78 C 72.97 180.18 62.08 177.13 52.97 171.03 Z" />
 </g>
-</svg>
-</svg>
+</g></svg>

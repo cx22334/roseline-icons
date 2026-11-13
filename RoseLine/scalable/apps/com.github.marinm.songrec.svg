@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><svg fill="none" xmlns="http://www.w3.org/2000/svg" x="14" y="14" width="36" height="36" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><g transform="matrix(0.2813 0 0 0.2813 14 14)" fill="none">
 <path d="M63 5C31.143 5 5 31.143 5 63C5 94.857 31.143 121 63 121C94.857 121 121 94.857 121 63C121 31.143 94.857 5 63 5ZM63 114.203C34.8899 114.203 11.7969 91.1101 11.7969 63C11.7969 34.8899 34.8899 11.7969 63 11.7969C91.1101 11.7969 114.203 34.8899 114.203 63C114.203 91.1101 91.1101 114.203 63 114.203Z" fill="url(#paint0_linear_706_19)" stroke="url(#paint1_linear_706_19)" stroke-width="4"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M64 37.75C49.5273 37.75 37.75 49.5273 37.75 64C37.75 78.4727 49.5273 90.25 64 90.25C78.4727 90.25 90.25 78.4727 90.25 64C90.25 49.5273 78.4727 37.75 64 37.75ZM63.75 82.5C53.4117 82.5 45 74.0882 45 63.75C45 53.4117 53.4117 45 63.75 45C74.0882 45 82.5 53.4117 82.5 63.75C82.5 74.0882 74.0882 82.5 63.75 82.5Z" fill="url(#paint2_linear_706_19)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M64 53C57.9344 53 53 57.9344 53 64C53 70.0656 57.9344 75 64 75C70.0656 75 75 70.0656 75 64C75 57.9344 70.0656 53 64 53ZM64 68C61.7931 68 60 66.2069 60 64C60 61.7931 61.7931 60 64 60C66.2069 60 68 61.7931 68 64C68 66.2069 66.2069 68 64 68Z" fill="url(#paint3_linear_706_19)"/>
@@ -36,5 +36,4 @@
 <stop offset="0.978261" stop-color="#38F9D7"/>
 </linearGradient>
 </defs>
-</svg>
-</svg>
+</g></svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><svg fill="none" xmlns="http://www.w3.org/2000/svg" x="14" y="14" width="36" height="36" viewBox="0 0 192 192" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><g transform="matrix(0.1875 0 0 0.1875 14 14)" fill="none">
 <path d="M88.8154 121.098L122.364 105.05C129.943 101.424 129.943 90.6335 122.364 87.0076L88.8154 70.959C82.178 67.7838 74.5 72.6222 74.5 79.9799V112.077C74.5 119.435 82.178 124.273 88.8154 121.098Z" stroke="url(#paint0_linear)" stroke-width="14"/>
 <ellipse cx="96.5" cy="96" rx="80.5" ry="77" stroke="url(#paint1_linear)" stroke-width="18"/>
 <defs>
@@ -11,5 +11,4 @@
 <stop offset="1" stop-color="#FFA68D"/>
 </linearGradient>
 </defs>
-</svg>
-</svg>
+</g></svg>

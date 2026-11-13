@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><svg fill="none" xmlns="http://www.w3.org/2000/svg" x="14" y="14" width="36" height="36" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><g transform="matrix(0.2813 0 0 0.2813 14 14)" fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M110.546 116.363V11.6361C110.546 8.42276 107.941 5.81787 104.728 5.81787H23.2733C20.06 5.81787 17.4551 8.42276 17.4551 11.6361V116.363C17.4551 119.577 20.06 122.182 23.2733 122.182H104.728C107.941 122.182 110.546 119.577 110.546 116.363ZM98.9093 106.545V21.4544C98.9093 19.2452 97.1184 17.4544 94.9093 17.4544H33.0911C30.882 17.4544 29.0911 19.2452 29.0911 21.4544V106.545C29.0911 108.754 30.882 110.545 33.0911 110.545H94.9093C97.1184 110.545 98.9093 108.754 98.9093 106.545Z" fill="url(#paint0_linear_725_4)"/>
 <path d="M119.273 40.7271H8.72745C7.1208 40.7271 5.81836 42.0295 5.81836 43.6361V49.4543C5.81836 51.061 7.1208 52.3634 8.72745 52.3634H119.273C120.88 52.3634 122.182 51.061 122.182 49.4543V43.6361C122.182 42.0295 120.88 40.7271 119.273 40.7271Z" fill="url(#paint1_linear_725_4)"/>
 <defs>
@@ -13,5 +13,4 @@
 <stop offset="1" stop-color="#FFB243"/>
 </linearGradient>
 </defs>
-</svg>
-</svg>
+</g></svg>

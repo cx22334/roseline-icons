@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><svg fill="none" xmlns="http://www.w3.org/2000/svg" x="14" y="14" width="36" height="36" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64"><rect x="2.500" y="2.500" width="59" height="59" rx="17" fill="#26233a" stroke="#403d52"/><g transform="matrix(0.0703 0 0 0.0703 14 14)" fill="none">
 <g clip-path="url(#clip0)">
 <path d="M204.336 327L132 459H410.664L483 327H204.336Z" stroke="url(#paint0_linear)" stroke-width="36"/>
 <path d="M24.0607 318.271L151.816 78.4901L228.025 199.276L98.2599 439.204L24.0607 318.271Z" stroke="url(#paint1_linear)" stroke-width="36"/>
@@ -21,5 +21,4 @@
 <rect width="512" height="512" fill="white"/>
 </clipPath>
 </defs>
-</svg>
-</svg>
+</g></svg>
