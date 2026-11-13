@@ -1,0 +1,26 @@
+[Icon Theme]
+Name=RoseLine
+Comment=Rosé Pine 配色的细线图标：暗色圆角底，按类别分色；其余应用用 BeautyLine 图案套底板，文件夹用 BeautyLine
+Inherits=Papirus-Dark,breeze-dark,hicolor
+Directories=scalable/apps,places/16,places/48
+
+[scalable/apps]
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
+Context=Applications
+
+[places/16]
+Size=16
+MinSize=8
+MaxSize=47
+Type=Scalable
+Context=Places
+
+[places/48]
+Size=48
+MinSize=48
+MaxSize=512
+Type=Scalable
+Context=Places
